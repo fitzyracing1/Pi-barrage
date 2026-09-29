@@ -1,2 +1,5 @@
 # Pi-barrage
-Barrage plain-language clone of fitzyracing1/Pi
+
+Barrage clone of [fitzyracing1/Pi](https://github.com/fitzyracing1/Pi).
+
+Read [listing.barrage](listing.barrage).
